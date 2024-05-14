@@ -1,4 +1,4 @@
-module HERO_GOBackend
+module SuperHero_GO_Backend
 
 go 1.22.3
 

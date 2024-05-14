@@ -1,3 +1,4 @@
 
-GET /api/superhero?hero=Wolverine
+GET /api/superhero?hero=Thor
 Host: localhost:8080
+
